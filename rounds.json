@@ -1,0 +1,61 @@
+[
+	{
+		"Pranav": ["lingyi"],
+		"Di": ["joanne q"],
+		"Christina P": ["Kelvin"],
+		"pooja": ["Janahan", "Russell"]
+	},
+	{
+		"jamie": ["ker lee"],
+		"Kelvin": ["Meena"],
+		"Pranav": ["Di"],
+		"Russell": ["zach"],
+		"Janahan": ["joanne q"],
+		"lingyi": ["pooja"]
+	},
+	{
+		"Kelvin": ["Janahan"],
+		"zach": ["Snigdha"],
+		"Meena": ["jamie"],
+		"Russell": ["joanne q"],
+		"Pranav": ["Emily"],
+		"Denalex": ["pooja"]
+	},
+	{
+		"pooja": ["Emily"],
+		"Kelvin": ["joanne q"],
+		"Russell": ["ker lee"],
+		"Christina P": ["Meena"],
+		"jamie": ["Cat Nguyen"],
+		"Pranav": ["Denalex", "cynthia"]
+	},
+	{
+		"Christina P": ["Kelvin"],
+		"ankil": ["jamie"],
+		"ker lee": ["Denalex"],
+		"Pranav": ["Cat Nguyen"],
+		"zach": ["cynthia"],
+		"Di": ["Russell"],
+		"joanne q": ["pooja"]
+	},
+	{
+		"Russell": ["Kelvin"],
+		"Pranav": ["Ayser"],
+		"Denalex": ["ankil"],
+		"pooja": ["Shaina"],
+		"ker lee": ["joanne q"],
+		"cynthia": ["zach"],
+		"jamie": ["kaytota"],
+		"Meena": ["Cat Nguyen"]
+	},
+	{
+		"Pranav": ["cynthia"],
+		"Jason": ["Christina P"],
+		"Kelvin": ["kaytota"],
+		"Cat Nguyen": ["Denalex"],
+		"Ryan": ["jamie"],
+		"Meena": ["Sami"],
+		"jerry": ["Ayser"],
+		"Haowei": ["pooja"]
+	}
+]

@@ -1,2 +1,5 @@
-# croissant-dates
-A python app for pairing people on croissant dates (using stable roommate matching)
+## Croissant matching logic
+
+### How to run the matcher
+
+Follow the instructions in `stable_croissant_matching.py`.
